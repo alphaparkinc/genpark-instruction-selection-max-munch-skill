@@ -1,0 +1,15 @@
+{
+  "name": "genpark-instruction-selection-max-munch-skill",
+  "version": "1.0.0",
+  "description": "Tree-matching Maximal Munch instruction selection engine tiling expression ASTs into target ISA instruction streams.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "compilers",
+    "instruction-selection",
+    "maximal-munch",
+    "code-generation"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
